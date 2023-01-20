@@ -84,7 +84,23 @@ This type of learning uses machine learning algorithms to analyze and cluster un
 Learning with the past experience(feedback) is known as reinforcement learning.
 
 
-#### Scenario-1 
-Facebook Face Recognition
-Netflix Movie Recommendation
-Fraud Detection
+
+
+#### Steps to apply machine learning 
+1. Define Objective
+2. Collect Data
+3. Prepare Data
+4. Select Algorithm
+5. Train Model
+4. Test Model
+5. Predict
+6. Deploy
+
+
+
+Do you want to predict the Category? That's **Classification**
+Do you want to predict a quantity? That's **Regression** for instance, predicting the age of a person based on the height, weight, health and other factors.
+Do you want to discover structure in unexplored data? That's **Clustering**. For instance, finding groups of customers with similar behaviour given a large database of customer data containing their demographics and past buying records.
+
+
+
