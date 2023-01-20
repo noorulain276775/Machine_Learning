@@ -1,5 +1,5 @@
 # Machine_Learning
-Have you ever been amazed by how google home and Amazon Alexa assist in finding Information when asked over voice
+Have you ever been amazed by how google home and Amazon Alexa assist in finding Information when asked over voice.
 </br>
 Have you ever windered that how e-commerce companies send you personalized email for shopping suggestions
 based on the product that you bought online recently.
@@ -74,4 +74,17 @@ Machine learning tasks invloves using data stored in the form of tables that are
 
 The job of a machine Learning engineer is to train the best performing model possible depending on the problem at hand you will need to choose a suitable error measure and an evaluation strategy for machine learning model.
 
-## What is Supervised Learning
+## What is Supervised Learning?
+It is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately.
+
+## What is Unsupervised Learning?
+This type of learning uses machine learning algorithms to analyze and cluster unlabeled datasets.
+
+## What is reinforcement Learning?
+Learning with the past experience(feedback) is known as reinforcement learning.
+
+
+#### Scenario-1 
+Facebook Face Recognition
+Netflix Movie Recommendation
+Fraud Detection
