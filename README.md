@@ -76,12 +76,20 @@ The job of a machine Learning engineer is to train the best performing model pos
 
 ## What is Supervised Learning?
 It is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately.
+In supervised learning we have:
+1. Labeled Data
+2. Direct Feedback
+3. Predict Output
 
 ## What is Unsupervised Learning?
 This type of learning uses machine learning algorithms to analyze and cluster unlabeled datasets.
+In Unsupervised Learning we have:
+1. Non-Labeled Data
+2. No Feedback
+3. Find hidden structure in Data
 
 ## What is reinforcement Learning?
-Learning with the past experience(feedback) is known as reinforcement learning.
+Learning with the past experience(feedback) is known as reinforcement learning. It is an important type of learning where an agent learns how to behave in a enviorment by performing actions and seeing the results.
 
 
 
@@ -96,6 +104,18 @@ Learning with the past experience(feedback) is known as reinforcement learning.
 5. Predict
 6. Deploy
 
+
+## Machine Learning Algorithms
+
+#### Linear Regression
+Linear Regression is a linear model, e.g. a model that assumes a linear relationship between the input variable (x) and a single output variable (y)<br> 
+y= mx + c
+<br>
+where m is the slope of the line
+and c is the y-intercept
+
+#### Decision Tree
+#### Support Vector Machine
 
 ## Ways to choose the right Algorithm
 
