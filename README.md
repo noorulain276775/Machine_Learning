@@ -97,9 +97,10 @@ Learning with the past experience(feedback) is known as reinforcement learning.
 6. Deploy
 
 
+## Ways to choose the right Algorithm
 
-Do you want to predict the Category? That's **Classification**
-Do you want to predict a quantity? That's **Regression** for instance, predicting the age of a person based on the height, weight, health and other factors.
+Do you want to predict the Category? That's **Classification**<br>
+Do you want to predict a quantity? That's **Regression** for instance, predicting the age of a person based on the height, weight, health and other factors. <br>
 Do you want to discover structure in unexplored data? That's **Clustering**. For instance, finding groups of customers with similar behaviour given a large database of customer data containing their demographics and past buying records.
 
 
