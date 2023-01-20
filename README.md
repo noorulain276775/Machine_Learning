@@ -86,7 +86,7 @@ Learning with the past experience(feedback) is known as reinforcement learning.
 
 
 
-#### Steps to apply machine learning 
+## Steps to apply machine learning 
 1. Define Objective
 2. Collect Data
 3. Prepare Data
