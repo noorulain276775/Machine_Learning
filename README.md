@@ -31,30 +31,30 @@ A good command on most preferably Python and R.
 #### 2. Computer Science Concepts
 ###### Data structures
 1. Queues
-<br>2. Stack
-<br>3. Trees
-<br>4. Graphs
+2. Stack
+3. Trees
+4. Graphs
 
 ###### 3. Alogrithms
 1. For seraching and sorting
-<br> 2. Dynamic and Greedy Programming
-<br> 3. Space and time complexity
+2. Dynamic and Greedy Programming
+3. Space and time complexity
 
 
 ###### 4. Libraries (For data analysis, computation and visualization)
 1. NumPy
-<br> 2. Pandas
-<br> 3. Matplotlib
-<br> 4. Seaborn
-<br> 5. Tidyr
-<br> 6. Ggplot
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Tidyr
+6. Ggplot
 
 ###### 5. Applied Mathematics
 To understand the mechanism behind the Alogrithms, you need to have a good knowledge of mathematical concepts such as:
 1. Linear Algebra
-<br> 2. Calculus
-<br> 3. Statistics
-<br> 4. Probability
+2. Calculus
+3. Statistics
+4. Probability
 
 
 ###### 6. Data Wrangling and SQL
