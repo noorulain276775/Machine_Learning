@@ -30,40 +30,39 @@ A good command on most preferably Python and R.
 
 #### 2. Computer Science Concepts
 ###### Data structures
-<br>1. Queues
+1. Queues
 <br>2. Stack
 <br>3. Trees
 <br>4. Graphs
 
-###### Alogrithms
-<br> 1. For seraching and sorting
+###### 3. Alogrithms
+1. For seraching and sorting
 <br> 2. Dynamic and Greedy Programming
 <br> 3. Space and time complexity
 
 
-###### Libraries (For data analysis, computation and visualization)
-<br> 1. NumPy
+###### 4. Libraries (For data analysis, computation and visualization)
+1. NumPy
 <br> 2. Pandas
 <br> 3. Matplotlib
 <br> 4. Seaborn
 <br> 5. Tidyr
 <br> 6. Ggplot
 
-###### Applied Mathematics
+###### 5. Applied Mathematics
 To understand the mechanism behind the Alogrithms, you need to have a good knowledge of mathematical concepts such as:
-<br> 1. Linear Algebra
+1. Linear Algebra
 <br> 2. Calculus
 <br> 3. Statistics
 <br> 4. Probability
 
 
-## What else is required for ML
-###### Data Wrangling and SQL
+###### 6. Data Wrangling and SQL
 Machine Learning expert often work on raw data collected from various resources, that are not fit for analysis. It has been observed that 80% of data analysis spend too much time on data wrangling. So, It is cruical for machine Learning expert to clean structure and enrich raw data into a desired format and make it ready for analysis using data wrangling techniques.
 
 Machine learning tasks invloves using data stored in the form of tables that are present inside relational database. The good understanding of SQL commands enables you to store, manipulate, retrieve and handle structured data.
 
-## Machine Learning Algorithms
+###### 7. Machine Learning Algorithms
 
 <ul>
 <li>Supervised Learning</li>
@@ -71,6 +70,8 @@ Machine learning tasks invloves using data stored in the form of tables that are
 <li>Reinforcement learning</li>
 </ul>
 
-## Data Modeling And Evaluation
+###### 8. Data Modeling And Evaluation
 
 The job of a machine Learning engineer is to train the best performing model possible depending on the problem at hand you will need to choose a suitable error measure and an evaluation strategy for machine learning model.
+
+## What is Supervised Learning
